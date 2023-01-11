@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hudson.flexhive",
+      "sha256_cert_fingerprints": [
+        "19:51:F6:E3:0A:4A:E0:27:32:5F:6D:7A:10:1D:1E:4F:44:01:37:8F:EC:18:0C:1B:7F:82:04:7C:A2:4E:8A:17"
+      ]
+    }
+  }
+]
