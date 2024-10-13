@@ -7,7 +7,7 @@
         {
           "appIDs": [
             "5L2NM6YDYV.com.ftel.fmc.qc",
-            "28L98322P9.com.ftel.fmc.dev"
+            "5L2NM6YDYV.com.ftel.fmc.dev"
           ],
           "paths": [
             "*"
@@ -23,7 +23,7 @@
     "webcredentials": {
       "apps": [
         "5L2NM6YDYV.com.ftel.fmc.qc",
-        "28L98322P9.com.ftel.fmc.dev"
+        "5L2NM6YDYV.com.ftel.fmc.dev"
       ]
     }
   }
