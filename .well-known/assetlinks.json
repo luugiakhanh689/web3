@@ -11,16 +11,4 @@
       ]
     }
   },
-    {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.ftel.fhc.qc",
-      "sha256_cert_fingerprints": [
-        "09:6A:72:8A:CE:81:69:38:C0:00:E2:C3:FA:FE:EC:4B:EF:62:31:F1:17:A5:A6:EE:08:8F:3C:5C:01:3B:93:6F"
-      ]
-    }
-  }
 ]
