@@ -6,10 +6,7 @@
       "details": [
         {
           "appIDs": [
-            "5L2NM6YDYV.com.ftelmvp.fhc",
-            "5L2NM6YDYV.com.ftel.fmc.staging",
-            "5L2NM6YDYV.com.ftel.fmc.qc",
-            "5L2NM6YDYV.com.ftel.fhc.dev"
+            "5L2NM6YDYV.com.ftel.fmc.qc"
           ],
           "paths": [
             "*"
@@ -24,10 +21,7 @@
     },
     "webcredentials": {
       "apps": [
-        "5L2NM6YDYV.com.ftelmvp.fhc",
-        "5L2NM6YDYV.com.ftel.fmc.staging",
-        "5L2NM6YDYV.com.ftel.fmc.qc",
-        "5L2NM6YDYV.com.ftel.fhc.dev"
+        "5L2NM6YDYV.com.ftel.fmc.qc"
       ]
     }
   }
