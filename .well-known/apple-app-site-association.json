@@ -1,27 +1,27 @@
 {
-    "applinks": {
-      "apps": [
-        
-      ],
-      "details": [
-        {
-          "appIDs": [
-            "5L2NM6YDYV.com.ftel.fmc.qc"
-          ],
-          "paths": [
-            "*"
-          ],
-          "components": [
-            {
-              "/": "/*"
-            }
-          ]
-        }
-      ]
-    },
-    "webcredentials": {
-      "apps": [
-        "5L2NM6YDYV.com.ftel.fmc.qc"
-      ]
-    }
+  "applinks": {
+    "apps": [
+      
+    ],
+    "details": [
+      {
+        "appIDs": [
+          "5L2NM6YDYV.com.ftel.fmc.qc"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "5L2NM6YDYV.com.ftel.fmc.qc"
+    ]
   }
+}
