@@ -1,0 +1,36 @@
+// 20241016004857
+// https://web3.fptmedicare.vn/.well-known/apple-app-site-association.json
+
+{
+  "applinks": {
+    "apps": [
+      
+    ],
+    "details": [
+      {
+        "appIDs": [
+          "5L2NM6YDYV.com.ftelmvp.fhc",
+          "5L2NM6YDYV.com.ftel.fmc.staging",
+          "5L2NM6YDYV.com.ftel.fmc.qc",
+          "5L2NM6YDYV.com.ftel.fhc.dev"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "5L2NM6YDYV.com.ftelmvp.fhc",
+      "5L2NM6YDYV.com.ftel.fmc.staging",
+      "5L2NM6YDYV.com.ftel.fmc.qc",
+      "5L2NM6YDYV.com.ftel.fhc.dev"
+    ]
+  }
+}
